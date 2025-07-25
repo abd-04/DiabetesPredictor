@@ -5,7 +5,7 @@
 
 This is a simple **Streamlit web app** that predicts a person's risk of having diabetes based on three key health features: **Glucose Level**, **BMI**, and **Age**. The model is implemented **from scratch using NumPy**, and is trained on the [Pima Indians Diabetes dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database).
 
-<div align="left">
+<div align="center">
     <a href="https://www.linkedin.com/in/abdullah-owais-23750920b" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square">
     </a>
