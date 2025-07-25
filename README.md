@@ -28,6 +28,19 @@ This is a simple **Streamlit web app** that predicts a person's risk of having d
 
 ---
 
+## 📈 Outcomes
+
+- ✅ Achieved a **binary classification loss of 0.4795** after training for **1500 epochs**  
+- 🔁 Applied **StandardScaler** to normalize input features for better convergence  
+- 📊 Model trained via **Gradient Descent** on the Pima Indians Diabetes dataset  
+- 🧠 The final values for the weights and the bias after converging with the global minima, were as fol:
+- weights (for each feature)[[0.99142094]
+ [0.64653907]
+ [0.2864559 ]]
+bias=-0.7762894567051973   
+
+---
+
 ## 📦 Installation
 
 Clone the repo and install dependencies:
