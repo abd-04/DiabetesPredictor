@@ -1,5 +1,5 @@
 numpy
 matplotlit
 streamlit
-joblit
+joblib
 pandas
