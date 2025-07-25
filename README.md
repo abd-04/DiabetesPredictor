@@ -24,7 +24,7 @@ This is a simple **Streamlit web app** that predicts a person's risk of having d
 * 📈 **Training loss curve** visualization
 * 🧠 **Sigmoid function** visualization
 * ✅ Live prediction with probability-based interpretation
-* 🎨 Built with **Streamlit** for fast web deployment
+  
 
 ---
 
@@ -33,8 +33,8 @@ This is a simple **Streamlit web app** that predicts a person's risk of having d
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/abd-04/diabetesPredictor
-cd diabetesPredictor
+git clone https://github.com/abd-04/DiabetesPredictor
+cd DiabetesPredictor
 pip install -r requirements.txt
 ```
 
@@ -70,13 +70,13 @@ You can run the app locally:
 ```bash
 streamlit run app.py
 ```
-## Or view it live:
+
     
 ---
 
 ## 👨‍💻 Author
 
-Made with ❤️ by **Abdullah Owais**
+Made by **Abdullah Owais** | ML from Scratch
 
 * 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/abdullah-owais-23750920b)
 * 🐙 [GitHub](https://github.com/abd-04)
