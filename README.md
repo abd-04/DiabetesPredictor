@@ -37,7 +37,8 @@ This is a simple **Streamlit web app** that predicts a person's risk of having d
 - weights (for each feature)[[0.99142094]
  [0.64653907]
  [0.2864559 ]]
-bias=-0.7762894567051973   
+bias=-0.7762894567051973
+
 
 ---
 
